@@ -25,7 +25,7 @@
 		A9478F262117199E000215DA /* IIViewDeckController.mm in Sources */ = {isa = PBXBuildFile; fileRef = A9478F132117199D000215DA /* IIViewDeckController.mm */; };
 		A9478F272117199E000215DA /* UIViewController+IIViewDeckAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = A9478F142117199D000215DA /* UIViewController+IIViewDeckAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A9478F282117199E000215DA /* UIViewController+IIViewDeckAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = A9478F152117199E000215DA /* UIViewController+IIViewDeckAdditions.m */; };
-		A9478F2A2117199E000215DA /* IIEnvironment.h in Headers */ = {isa = PBXBuildFile; fileRef = A9478F172117199E000215DA /* IIEnvironment.h */; };
+		A9478F2A2117199E000215DA /* IIEnvironment.h in Headers */ = {isa = PBXBuildFile; fileRef = A9478F172117199E000215DA /* IIEnvironment.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
