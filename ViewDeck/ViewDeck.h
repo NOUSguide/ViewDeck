@@ -22,7 +22,20 @@
 //  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 //  SOFTWARE.
 //
+#import <UIKit/UIKit.h>
 
-#import "IIEnvironment.h"
-#import "IIViewDeckController.h"
-#import "UIViewController+IIViewDeckAdditions.h"
+//#import "IIEnvironment.h"
+//#import "IIViewDeckController.h"
+//#import "UIViewController+IIViewDeckAdditions.h"
+
+//! Project version number for ViewDeck.
+FOUNDATION_EXPORT double ViewDeckVersionNumber;
+
+//! Project version string for ViewDeck.
+FOUNDATION_EXPORT const unsigned char ViewDeckVersionString[];
+
+// In this header, you should import all the public headers of your framework using statements like #import <ViewDeck/PublicHeader.h>
+#import <ViewDeck/IIEnvironment.h>
+#import <ViewDeck/IIViewDeckController.h>
+#import <ViewDeck/UIViewController+IIViewDeckAdditions.h>
+
